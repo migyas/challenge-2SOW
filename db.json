@@ -1,0 +1,35 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "foo bar",
+      "cpf": "213.123.123-45",
+      "email": "foo_bar@email.com",
+      "endereco": {
+        "cep": 13454000,
+        "rua": "rua talvez",
+        "numero": 785,
+        "bairro": "bairro azul",
+        "cidade": "cidade eterna"
+      }
+    },
+    {
+      "id": 2,
+      "name": "123123",
+      "email": "11111@11212.211",
+      "cpf": "1112312",
+      "endereço": {
+        "cep": "",
+        "rua": "",
+        "bairro": "",
+        "cidade": ""
+      }
+    }
+  ],
+  "login": {
+    "name": "Usuário",
+    "email": "admin@admin.com",
+    "password": "12345",
+    "token": "12312312312312"
+  }
+}
